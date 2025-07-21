@@ -1,2 +1,1 @@
-# desma127
-DMA127: Interactive Animation
+# DMA127: Interactive Animation
