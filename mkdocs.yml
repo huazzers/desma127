@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: 🎠 DESMA127 Interactive Animation
+theme: 
+  name: simple-blog
+  sidebar: true
+  navigation_depth: 2
+  components:
+    title: false
+    preview: true
+  theme_style: light
+extra_css:
+  - extra.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js
+nav:
+  - 🏠 Home: index.md
