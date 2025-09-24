@@ -1,17 +1,42 @@
-# Welcome to MkDocs
+<style>
+    @media (min-width: 768px) {
+        .col-md-9 {
+            width: 100% !important;
+        }
+        
+        .d-md-block {
+        display: none !important;
+        }
+        
+        #component-content{
+            margin-left:0 !important;
+        }
+    }
+</style>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<script>
+window.onload = function(e){
+    var cell = document.getElementById('component-site-name');
+    var caseId = cell.innerHTML;
+    cell.innerHTML = '';
+    var link = document.createElement('a');
+    link.href = '';
+    link.appendChild(document.createTextNode(caseId));
+    cell.appendChild(link);
+}
+</script>
 
-## Commands
+# 🏠 Interactive Animation Fall 2025
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Broad 4230<br/>
+Tuesdays and Thursdays, 2 p.m. - 4:50 p.m.
 
-## Project layout
+**INSTRUCTOR**<br/>
+Office hours: Tuesdays 12:30 p.m. - 1:30 p.m.; By appointment only.<br/>
+Email: huazzers@ucla.edu
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+**TEACHING ASSISTANT**<br/>
+Office hours: Thursdays 12:30 p.m. - 1:30 p.m.; By appointment only.<br/>
+Email: yo0na@ucla.edu
+
+---

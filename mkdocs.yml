@@ -1,4 +1,4 @@
-site_name: 🎠 DESMA127 Interactive Animation
+site_name: Interactive Animation
 theme: 
   name: simple-blog
   sidebar: true
@@ -7,9 +7,19 @@ theme:
     title: false
     preview: true
   theme_style: light
+  logo: img/interactiveanimation_logo.png
+  favicon: img/interactiveanimation_logo.png
 extra_css:
   - extra.css
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js
 nav:
-  - 🏠 Home: index.md
+  - 📜 Syllabus: syllabus.md
+  - 📅 Schedule: schedule.md 
+  - 🛠️ Resources: resources.md
+  - 📌 Assignments:
+    - How To Submit: how-to-submit.md
+    - Survey: survey.md
+    - Reading/Media Response: reading-media.md
+    - Project 1: project-1.md
+    - Project 2: project-2.md
