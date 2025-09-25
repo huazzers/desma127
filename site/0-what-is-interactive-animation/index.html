@@ -153,7 +153,19 @@
             
             <li class="nav-item" data-bs-level="1"><a href="#what-is-interactive-animation" class="nav-link">What Is Interactive Animation?</a>
               <ul class="nav flex-column">
-            <li class="nav-item" data-bs-level="2"><a href="#what-is-animation" class="nav-link">What is Animation?</a>
+            <li class="nav-item" data-bs-level="2"><a href="#animation" class="nav-link">Animation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#interactivity" class="nav-link">Interactivity</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#interactive-animation" class="nav-link">Interactive Animation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#in-class-activity" class="nav-link">In-class Activity</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -207,13 +219,23 @@ document.querySelectorAll('a[href^="#"]')
 
 <h1 id="what-is-interactive-animation">What Is Interactive Animation?</h1>
 <hr />
-<h2 id="what-is-animation">What is Animation?</h2>
+<h2 id="animation">Animation</h2>
 <blockquote>
 <p>"Animation is a filmmaking technique whereby still images are manipulated to create moving images."</p>
 <p>-- Wikipedia, "<a href="https://en.wikipedia.org/wiki/Animation">Animation</a>"</p>
 </blockquote>
+<p><br></p>
+<p>On a technical level, animation is the result of playing still frames at a certain speed (ie. frame rate), which results in a moving image.</p>
+<p>Take the classic bouncing ball, for example--</p>
 <p><img alt="" src="../img/bouncingball.gif" /></p>
 <p><img alt="" src="../img/bouncingballframes.png" /></p>
+<p><br></p>
+<blockquote>
+<p><strong>animation:</strong> <br>(noun)<br>The act, process, or result of <strong>imparting life, interest, spirit, motion, or activity</strong>; The quality or condition of being alive, active, spirited, or vigorous.</p>
+<p>-- The American Heritage Dictionary of the English Language, 5th Edition.</p>
+</blockquote>
+<p><br></p>
+<p>Animation is also about <strong>the illusion of life</strong>, or the <strong>"believability"</strong> of the moving image. To achieve this, animators play the role of an actor who performs through the images they create.</p>
 <p><br></p>
 <figure>
     <img src="../img/animators-survival-kit.jpg">
@@ -222,14 +244,186 @@ document.querySelectorAll('a[href^="#"]')
 
 <p><br></p>
 <figure>
+    <img src="../img/walkcycle_animators survival guide.png">
+    <figcaption>-- Walk cycle reference, taken from "The Animator's Survival Kit". Notice the "bouncing ball" in this example?</figcaption>
+</figure>
+
+<p><br></p>
+<p>From reference to performance. </p>
+<figure>
+    <img src="../img/masaakiyuasa_happymachine.gif">
+    <figcaption>-- Masaaki Yuasa, "Happy Machine" from animated film antholog Genius Party (2007).In this example (and many of Yuasa's other walk cycle animations), he tends to emphasise the lifting of the heel as the back leg moves forward, and the lifting of the toes as the front leg steps onto the ground.</figcaption>
+</figure>
+
+<p><br></p>
+<!--mason lindroth example-->
+<figure>
+    <img src="../img/masonlindroth_blender.gif"><br>
+    <img src="../img/masonlindroth_video.gif">
+    <figcaption>-- Mason Lindroth, Character animations for Hylics using video footage composited with 3D models in Blender.</figcaption>
+</figure>
+
+<p><br></p>
+<hr />
+<h2 id="interactivity">Interactivity</h2>
+<p><strong>The agency and control to mutually act upon each other</strong></p>
+<blockquote>
+<ul>
+<li>
+<p><figure><p>"(of two or more persons, forces, etc) acting upon or in close relation with each other" </p><figcaption>-- Collins English Dictionary</figcaption></figure></p>
+</li>
+<li>
+<p><figure><p>"a measure of a media's potential ability to let the user exert an influence on the content and/or form of the mediated communication."</p><figcaption>-- Jens Jensen and Cathy Toscan, "Interactive Television: TV of the Future or Future of the TV?" (1999)</figcaption></figure></p>
+</li>
+</ul>
+</blockquote>
+<p><br></p>
+<p><strong>Two-way communication</strong></p>
+<blockquote>
+<ul>
+<li>
+<p><figure><p>"a form of information exchange between different actors (between groups of people, or between humans and machines)"</p><figcaption>-- Peter Mechant and Jan Van Looy, "Interactivity" (2014)</figcaption></figure></p>
+</li>
+<li>
+<p><figure><p>"cyclical process in which two actors alternately listen, think and speak."</p><figcaption>-- Chris Crawford, "Understanding Interactivity (2002)"</figcaption></figure></p>
+</li>
+</ul>
+</blockquote>
+<p><br></p>
+<hr />
+<h2 id="interactive-animation">Interactive Animation</h2>
+<p>In this class, our practice of interactive animation is concerned with the creation of 2D and 3D assets for video game engines, specificially focusing on Unity and its animation systems.</p>
+<p>That being said, animation and games share a similar history that's rooted in performance-based practices such as puppetry, shadow and projection-based theater, as well as role-playing.</p>
+<p><br></p>
+<p><strong>Kinetic objects activated by animator-actor-performer</strong></p>
+<figure>
+    <div class="div-container">
+        <div style="width:30%">
+        <img src="../img/potterysculpture.png">
+        </div>
+        <div style="width:65%">
+        <img src="../img/potterypattern.png">
+        </div>
+    </div>
+    <figcaption>-- Statuette of an Egyptian painter, 2000 ~ 1000 BC (left); 5200 year-old Iranian earthenware bowl at the Burnt City in Iran (right)</figcaption>
+</figure>
+
+<p><br></p>
+<figure>
+    <img src="../img/thaumatrope_individualsides.jpg">
+    <img src="../img/thaumatrope.gif">
+    <figcaption>-- Thaumatrope (1824) – invented by John Ayrton Paris</figcaption>
+</figure>
+
+<p><br></p>
+<figure>
+    <img src="../img/zoetrope_dinghuan.jpeg">
+    <figcaption>-- Zoetrope (“1830”) – though actually invented in China, attributed to Ding Huan, 180 CE.</figcaption>
+</figure>
+
+<p><br></p>
+<figure>
+    <img src="../img/phenakistescope.png"><br>
+    <img src="../img/phenakistoscope.gif">
+    <figcaption>-- Phenakistoscope (1833) – spin the disk and look at it, through the slits, reflected in a mirror.</figcaption>
+</figure>
+
+<p><br></p>
+<p><strong>Physical Props / Puppets for Projection Theatre</strong></p>
+<figure>
+    <img src="../img/shadowpuppet.png">
+    <figcaption>-- 19th century Chinese shadow puppet (left); Contemporary shadow puppet troupe led by Khun Charon, Thailand (right)</figcaption>
+</figure>
+
+<p><br></p>
+<figure>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w1XkqtzLfKo?si=qcjlf_VnRJT4BD_C&amp;start=188" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/1671_kircheri_-_ars_magna_lucis_et_umbrae_-_769.jpg">
+    <figcaption>-- The Magic Lantern, invented by Christiaan Huygens (1662)</figcaption>
+</figure>
+
+<p><br></p>
+<p><strong>Early Classical Animation as Cinematic Attraction</strong></p>
+<figure>
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aEAObel8yIE?si=TFnF5_vc94H2LF_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <figcaption>-- Emile Cohl, "Fantasmagorie" (1908)</figcaption>
 </figure>
 
+<p><br></p>
 <figure>
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/32pzHWUTcPc?si=shXPzw20Rcrvi6pv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <figcaption>-- Windsor McCay, "Gertie the Dinosaur" (1914).</figcaption>
-</figure></p>
+</figure>
+
+<p><br></p>
+<figure>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cv1jE5kes6w?si=FaV4Ck0uH8NvHL0R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>-- Max Fleischer, "The Clown's Pup" (1919) from his animated film series Out of the Inkwell.</figcaption>
+</figure>
+
+<p><br></p>
+<figure>
+    <blockquote><p>Early animated films tended to downplay any sense that the animated world was “real.” Particularly in earlier examples, animation is very much part of the “cinema of attractions” as described by Tom Gunning. The novelty of the form was integral to the appeal of much early silent animation, and this is highlighted and exploited through a number of devices. Predictably, gags and situations that are impossible to perform in live action are a key element, and the process of animation itself was often foregrounded. Donald Crafton has noted that the interjection (literally or metaphorically) of the ﬁgure of the “life-giving” animator is a key theme of early animation, from Winsor McCay’s Gertie the Dinosaur (1914) to Max Fleischer’s “Out of the Inkwell” series. While the act of giving life is often shown as a magical rather than industrial process, such intervention nevertheless highlights that the animated world is not a closed, hermetic story world in the sense encouraged by classical Hollywood narratives. </p>
+    </blockquote>
+    <figcaption>-- Stephen Rowley, "Life Reproduced in Drawings: Realism in Animation" (2006)</figcaption>
+</figure>
+
+<p><br></p>
+<p><strong>CG puppetry</strong></p>
+<figure>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dP6TUB7KQc4?si=vGblUcyYv0IIDR1D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>
+    -- Jim Henson and Steve Whitmire, Waldo C. Graphic (1989)
+    </figcaption>
+</figure>
+
+<p><br></p>
+<figure>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D-UmfqFjpl0?si=kEa3nqdUUBPfm_k3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+    <img src="../img/makingofdogofwisdom.gif">
+    <figcaption>
+    -- Joe (YouTube), "Dog of Wisdom" (2015); the "life-giving" animator's hand using <a href="https://www.youtube.com/watch?v=0a_M9VsZ6Lk">the Leap Motion controller</a>.
+    </figcaption>
+</figure>
+
+<p><br></p>
+<hr />
+<h2 id="in-class-activity">In-class Activity</h2>
+<p>For 30 minutes, we'll do an activity to inspire interactive concepts that have the most minimal scope possible. Feel free to base our first tutorial exercise for Project 1 on an idea from this brainstorm activity...</p>
+<h3 id="step-1">STEP 1</h3>
+<p>Pair into <strong>groups of two or three</strong>, and play with an interactive children's book. </p>
+<ul>
+<li>Really though -- play with it. Give yourself to the book as wholeheartedly as you can. It will be a little embarrassing. Touch the book, talk to it.</li>
+<li><strong>Interact with as many of these books as you can.</strong> If you’re not interested in the book you have, trade it.</li>
+</ul>
+<p><br></p>
+<h3 id="step-2">STEP 2</h3>
+<p>After you've had a chance to play with a book, consider writing notes on the following...</p>
+<ul>
+<li>Examine <strong>your relationship with the “narrator”</strong> in these books. Do you find yourself role-playing as someone else? What does it feel like to be told what to do by a book?</li>
+<li>Did any of these interactions bring about a <strong>genuine feeling</strong> in you? Surprise? Delight? Frustration?</li>
+<li>What combination of <strong>design elements</strong> made you experience the feeling?</li>
+</ul>
+<p>Example 1: </p>
+<blockquote>
+<p>"The cartoonish design of the treasure chest led me to believe there would be something fun inside. There <em>was</em> something fun under the flap—it was a monkey. This makes me feel satisfied."</p>
+</blockquote>
+<p><br></p>
+<p>Example 2:</p>
+<blockquote>
+<p>"I am told that if I press a yellow dot, I can change its color to blue, but I know that the yellow dot will be blue on the next page whether I press it or not. This makes me feel nihilistic."</p>
+</blockquote>
+<p><br></p>
+<h3 id="step-3">STEP 3</h3>
+<p>Take inspiration from one of these simple book interactions, and <strong>design a minimal scenario</strong> based on that interaction and the feeling it gives you. </p>
+<p>Write down the scenario you came up with. </p>
+<p>Example: </p>
+<blockquote>
+<p><strong>Example book interaction:</strong> <br>Tell the pigeon he can't drive the bus
+<img alt="" src="../img/week0activity.png" />
+<br><br>
+<strong>Example scenario:</strong> <br>My sister says “please touch my hat!” I don’t touch it, and after 5 seconds she starts crying.</p>
+</blockquote></p>
     </article>
 </section>
 <!-- endblock -->

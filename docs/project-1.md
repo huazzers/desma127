@@ -130,7 +130,7 @@ Consider the creative decisions made in the following examples that communicate 
 
 2. have a **timed event**, ie. the duration in which a desired action must be completed in order to "win", otherwise the player "loses";
 
-    > While 8~12 seconds is standard for warioware minigames, for this project, you're welcome to extend that timeframe **up to 2 minutes**. 
+    > While 8~12 seconds is standard for warioware minigames, for this project, you may extend that timeframe **up to 2 minutes** -- please consult the instructor / TA if you're planning for a timed event duration beyond this scope.
 
 3. have an **"end scene"** be activated at the end of the timed event;
 
