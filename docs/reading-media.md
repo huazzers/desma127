@@ -33,7 +33,7 @@ document.querySelectorAll('a[href^="#"]')
 
 ## Reading / Media 1
 
-<!--
+
 <div class="duedate">
 <p>📌 <b>DUE:</b> Week 2 Tuesday, October 7</p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-aQnjMvUGLt_pN5MVnybPk62gFD3cdg7uOem0RNcTDoZitw/viewform?usp=sharing&ouid=111038396537777799192">Submit Final Submission Here</a></p>
@@ -41,10 +41,10 @@ document.querySelectorAll('a[href^="#"]')
 
 Reading / Media 1 comes in TWO parts: 
 
-1. a solo reading response; and
-2. a group media response.
+1. a reading response; and
+2. a media response.
 
-### PART 1: SOLO READING RESPONSE
+### READING RESPONSE
 
 Read **at least one** of these short essays about ideation/building ideas by these animators published in **Mostly Moving**, an independent animation journal:
 
@@ -53,15 +53,15 @@ Read **at least one** of these short essays about ideation/building ideas by the
 
 Working with games and interactivity means thinking a lot about agency—what kind of agency will you give or deny your audience? Above, animators Jamie and Caleb talk about forces of **chaos** and **control** in relation to their practices. Take inspiration from Jamie and/or Caleb to formulate **at least three statements (number them!)** that explore how you feel about chaos and control in relation to your interactive practice.
 
-### PART 2: GROUP MEDIA RESPONSE
+### MEDIA RESPONSE
 
-**In groups of 2~3**, spend at least **30 minutes** with **any TWO (2)** of the following projects: [**LINK TO READING/MEDIA 1 LIST**](https://docs.google.com/spreadsheets/d/1bxmhYjV7zo1lLmPvBTt7lpUcrBbYTv12-mCrTIunIm8/edit?usp=sharing)
+Spend at least **30 minutes** with **any TWO (2)** of the following projects: [**LINK TO READING/MEDIA 1 LIST**](https://docs.google.com/spreadsheets/d/1bxmhYjV7zo1lLmPvBTt7lpUcrBbYTv12-mCrTIunIm8/edit?usp=sharing)
 
 In what ways do the above interactive projects create meaning when they grant or deny you agency? 
 
-Discuss among your group members, take notes, and submit a write-up of your collective response.
+Take notes about your experience and reflections, then submit a write-up of your final response.
 
--->
+<br>
 
 ## Reading / Media 2
 
