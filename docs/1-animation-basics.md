@@ -483,6 +483,10 @@ Generally, we can organize animations for interactive projects into two differen
 
 When an interactable asset is **at rest** or **not receiving any player input**, we call this an Idle animation, Idle state, or just "an idle." 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MB5Okiv7TpU?si=1WmqilT1T2YuEkrz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
 Technically, an object that is "idling" doesn't need to animate at all -- but it can! 
 
 It's common to see characters in video games idle, but really, *any* animation can loop, so *anything* can idle.
