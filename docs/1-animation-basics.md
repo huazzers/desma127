@@ -468,6 +468,14 @@ When we get into Unity, you'll arrange your animations into this finite state ma
 
 <br>
 
+The animator can transition from one state to another either at the end of an animation, or using conditional parameters such as: 
+
+- **Bools**: a value that can either be true (1) or false (0).
+- **Triggers**: fires once, then automatically turns off immediately after. 
+
+*More on these next week...*
+
+<br>
 
 Generally, we can organize animations for interactive projects into two different state categories -- **Idle states**, and **Active states**.
 
