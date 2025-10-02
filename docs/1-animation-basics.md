@@ -270,7 +270,7 @@ E.g. This bouncing ball animation is made up of 30 frames.
 Defined in **frames per second (fps)**.
 
 - **Ones**: a drawing every frame; <br>(e.g. in 24 fps, we'd have 24 drawings a second.)
-- **Twos**: a drawing ever two frames. <br>(e.g. in 24 fps, we'd have 12 drawings a second, so it's technically 12 fps.)
+- **Twos**: a drawing every two frames. <br>(e.g. in 24 fps, we'd have 12 drawings a second, so it's technically 12 fps.)
 
 <br>
 

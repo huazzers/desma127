@@ -99,6 +99,7 @@ For more asset creation tools, there's also this **exhaustive list of cheap and 
 - [**The Animator's Survival Kit**](https://archive.org/details/TheAnimatorsSurvivalKitRichardWilliams/mode/2up) by Richard Williams is available on the Internet Archive for free! 
 - [**Video to Riso Animation**](https://zinehug.com/Riso-Animation) with contact sheet templates provided
 - [**Greenscreen Animals**](https://greenscreenanimals.com/footage) has video footage of various animals performing different actions. 
+- **2D Walking animation reference** (.psd) files from Jenna Caravello: [In Place](https://drive.google.com/file/d/1b1jJMOb5NrRRjuWcnKAX3Lk1xO7ublGw/view?usp=drive_link) and [Moving Forward](https://drive.google.com/file/d/1fFPYWpOmfiWqV7qtkSf0s1VCUjEzbarj/view?usp=drive_link)
 
 ### CG resources
 
