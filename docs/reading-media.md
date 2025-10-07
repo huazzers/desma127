@@ -65,4 +65,33 @@ Take notes about your experience and reflections, then submit a write-up of your
 
 ## Reading / Media 2
 
+<div class="duedate">
+<p>📌 <b>DUE:</b> Week 3 Tuesday, October 14</p>
+<p><a href="https://forms.gle/ggRQArWSf9tfguXA7">Submit Final Submission Here</a></p>
+</div>
+
+Read the following chapters from Gordon Calleja’s book, *In-Game: from Immersion to Incorporation*.
+
+* [Chapter 3: The Player Involvement Model](http://classes.dma.ucla.edu/Fall21/172/wp-content/uploads/2021/10/PlayerInvolvement.pdf)
+* [Chapter 4: Kinesthetic Involvement](http://classes.dma.ucla.edu/Fall21/172/wp-content/uploads/2021/10/KinestheticInvolvement.pdf)
+
+![](https://classes.dma.ucla.edu/Spring25/127/wp-content/uploads/2021/10/ingame-691x1024.jpeg)
+
+<br>
+
+Then play [*Way To Go*](http://a-way-to-go.com/). 
+
+*(If it's not available to you, check out the sample video and making-of [here](https://www.unit9.com/project/way-to-go/).)*
+
+<br>
+
+For your response, prepare only a few sentences to answer each question below. **I will call on people in the class at random to share their thoughts.**
+
+* According to Calleja, in what ways can game-players become involved with, or embody their avatars?
+* What is a Magic Circle? Have you ever experienced this phenomenon?
+* In what ways does Calleja think bodily involvement, or movement, augments gameplay?
+* Which of Calleja’s ideas apply best to your experience of Way To Go?
+
+<br>
+
 ## Reading / Media 3
