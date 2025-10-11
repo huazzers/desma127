@@ -72,8 +72,8 @@ Take notes about your experience and reflections, then submit a write-up of your
 
 Read the following chapters from Gordon Calleja’s book, *In-Game: from Immersion to Incorporation*.
 
-* [Chapter 3: The Player Involvement Model](http://classes.dma.ucla.edu/Fall21/172/wp-content/uploads/2021/10/PlayerInvolvement.pdf)
-* [Chapter 4: Kinesthetic Involvement](http://classes.dma.ucla.edu/Fall21/172/wp-content/uploads/2021/10/KinestheticInvolvement.pdf)
+* [Chapter 3: The Player Involvement Model](https://drive.google.com/file/d/1tFpxk2-TuuSIrzvZ_x9JO14b7XKJRjmT/view?usp=sharing)
+* [Chapter 4: Kinesthetic Involvement](https://drive.google.com/file/d/1VftK48U0J5J1yATRoWqT9YKvTHKTQJzg/view?usp=sharing)
 
 ![](https://classes.dma.ucla.edu/Spring25/127/wp-content/uploads/2021/10/ingame-691x1024.jpeg)
 
