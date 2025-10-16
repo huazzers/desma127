@@ -234,16 +234,27 @@ window.onload = function(e){
 <hr />
 <h2 id="submission-checklist">Submission Checklist</h2>
 <p><strong><u>Before class on the day of the project deadline</u></strong></p>
-<p>The following items should be handed in through the project submission form <strong>before class starts</strong>: </p>
+<p>Make an project page on <a href="https://itch.io/"><strong>itch.io</strong></a> for your project assignment (you'll need to make an itch.io account if you don't have one.)</p>
+<p>After signing into your account, expand the dropdown menu next to your username on the top-right corner &gt; click <strong>"Upload new project"</strong>.</p>
+<p>Under "Pricing", click the first option (<strong>$0 or Donate</strong>) or the last option (<strong>No payments</strong>).</p>
+<p>Your itch page should contain the following items: </p>
 <blockquote>
 <ul>
 <li><strong>Project Title</strong></li>
+<li>Under "Description":<ul>
 <li><strong>Project Statement</strong> -- can be descriptive of the piece, but should mostly focus on your motivation for making it.</li>
 <li><strong>Instructions for interactivity</strong> -- which buttons do I press?</li>
+</ul>
+</li>
+<li>Under "Uploads":<ul>
 <li><strong>Project build for WINDOWS</strong>, zipped with the folder and .dll file that Unity will export along with the .exe file.</li>
-<li><strong>Exported Unity package</strong>, with the file extension (.unitypackage).</li>
+<li><strong>Exported Unity package</strong> containing all your project scenes and assets, with the file extension (.unitypackage).</li>
+</ul>
+</li>
 </ul>
 </blockquote>
+<p>At the end of your project page, set the visibility at the end to be <strong>"Public"</strong>, i.e. "Anyone can view the page, you can enable this after you've saved".</p>
+<p>All the above items, including a link to your itch.io page, should also be handed in through the project submission form <strong>before class starts</strong>.</p>
 <p><br></p>
 <p><strong><u>By 11:59PM on the day of the project deadline:</u></strong></p>
 <p>Submit the following <strong>visual documentation</strong> of your project in the same submission form:</p>
@@ -260,11 +271,13 @@ window.onload = function(e){
 <h2 id="tools-for-visual-documentation">Tools for Visual Documentation</h2>
 <h3 id="animated-gifs">Animated GIFs</h3>
 <p>Animated GIFs are durable and easy to view (though not always small in size). In this course we will use animated GIFs as a quasi-archival format for animated visual material. Preferably, they should be 600 pixels wide and under 5MB in file size.</p>
-<p>I personally use and recommend <a href="https://www.screentogif.com/">ScreenToGif</a>, which is a good tool for quickly making a gif. Photoshop, Premiere, AfterEffects, or other video editors can also export gifs. You may also find the following free tools helpful:</p>
+<p>I personally use and recommend <a href="https://www.screentogif.com/">ScreenToGif</a>, which is a good tool for quickly making a gif on Windows. </p>
+<p>Photoshop, Premiere, AfterEffects, or other video editors can also export <a href="#screenshots-and-screen-recordings">screen-recording videos</a> into gif formats-- but make sure to size it down to <strong>no larger than 900 x 900 pixels</strong> for optimised playback!</p>
+<p>You may also find the following free tools helpful:</p>
 <ul>
 <li><a href="https://ezgif.com/">EzGif.com</a> is an online GIF maker, editor, and compressor. Great for reducing the file size of GIFs.</li>
+<li><a href="https://gif.ski/">Gifski</a> is a high-qulity GIF encoder that is available to install for both Windows and Mac.</li>
 <li><a href="https://www.cockos.com/licecap/">LICEcap</a> is a badly-named free OSX app which can capture an area of your screen and save it directly to an animated GIF.</li>
-<li><a href="https://www.online-convert.com/">Online-convert.com</a> offers a browser tool for converting videos into GIFs.</li>
 </ul>
 <p><br></p>
 <h3 id="screenshots-and-screen-recordings">Screenshots and Screen Recordings</h3>
@@ -304,7 +317,7 @@ window.onload = function(e){
 <p>Start by opening the build settings under <strong>File &gt; Build Settings</strong>.</p>
 <p><img alt="" src="../img/build_settings_1.gif" /></p>
 <p><br></p>
-<p>Add all the scenes you want to include in your project by clicking and dragging them from your assets folder to “Scenes in Build” (also remove any scenes you don’t want to include). The topmost scene in this list will be the first to play when starting the game.</p>
+<p>Add all the scenes you want to include in your project by clicking and dragging them from your assets folder to <strong>“Scenes in Build”</strong> (also remove any scenes you don’t want to include). The topmost scene in this list will be the first to play when starting the game.</p>
 <p><img alt="" src="../img/build_settings_2.gif" /></p>
 <p><br></p>
 <p>Create a Windows build by changing Target Platform to “Windows” and clicking build.</p>

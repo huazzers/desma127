@@ -57,14 +57,26 @@ window.onload = function(e){
 
 **<u>Before class on the day of the project deadline</u>**
 
-The following items should be handed in through the project submission form **before class starts**: 
+Make an project page on [**itch.io**](https://itch.io/) for your project assignment (you'll need to make an itch.io account if you don't have one.)
+
+After signing into your account, expand the dropdown menu next to your username on the top-right corner > click **"Upload new project"**.
+
+Under "Pricing", click the first option (**$0 or Donate**) or the last option (**No payments**).
+
+Your itch page should contain the following items: 
 
 > - **Project Title**
-> - **Project Statement** -- can be descriptive of the piece, but should mostly focus on your motivation for making it.
-> - **Instructions for interactivity** -- which buttons do I press?
-> - **Project build for WINDOWS**, zipped with the folder and .dll file that Unity will export along with the .exe file.
-> - **Exported Unity package**, with the file extension (.unitypackage).
+> - Under "Description":
+>     - **Project Statement** -- can be descriptive of the piece, but should mostly focus on your motivation for making it.
+>     - **Instructions for interactivity** -- which buttons do I press?
+> - Under "Uploads":
+>     - **Project build for WINDOWS**, zipped with the folder and .dll file that Unity will export along with the .exe file.
+>     - **Exported Unity package** containing all your project scenes and assets, with the file extension (.unitypackage).
 
+
+At the end of your project page, set the visibility at the end to be **"Public"**, i.e. "Anyone can view the page, you can enable this after you've saved".
+
+All the above items, including a link to your itch.io page, should also be handed in through the project submission form **before class starts**.
 
 <br>
 
@@ -89,11 +101,15 @@ Submit the following **visual documentation** of your project in the same submis
 
 Animated GIFs are durable and easy to view (though not always small in size). In this course we will use animated GIFs as a quasi-archival format for animated visual material. Preferably, they should be 600 pixels wide and under 5MB in file size.
 
-I personally use and recommend [ScreenToGif](https://www.screentogif.com/), which is a good tool for quickly making a gif. Photoshop, Premiere, AfterEffects, or other video editors can also export gifs. You may also find the following free tools helpful:
+I personally use and recommend [ScreenToGif](https://www.screentogif.com/), which is a good tool for quickly making a gif on Windows. 
+
+Photoshop, Premiere, AfterEffects, or other video editors can also export [screen-recording videos](#screenshots-and-screen-recordings) into gif formats-- but make sure to size it down to **no larger than 900 x 900 pixels** for optimised playback!
+
+You may also find the following free tools helpful:
 
 - [EzGif.com](https://ezgif.com/) is an online GIF maker, editor, and compressor. Great for reducing the file size of GIFs.
+- [Gifski](https://gif.ski/) is a high-qulity GIF encoder that is available to install for both Windows and Mac.
 - [LICEcap](https://www.cockos.com/licecap/) is a badly-named free OSX app which can capture an area of your screen and save it directly to an animated GIF.
-- [Online-convert.com](https://www.online-convert.com/) offers a browser tool for converting videos into GIFs.
 
 <br>
 
@@ -158,7 +174,7 @@ Start by opening the build settings under **File > Build Settings**.
 
 <br>
 
-Add all the scenes you want to include in your project by clicking and dragging them from your assets folder to “Scenes in Build” (also remove any scenes you don’t want to include). The topmost scene in this list will be the first to play when starting the game.
+Add all the scenes you want to include in your project by clicking and dragging them from your assets folder to **“Scenes in Build”** (also remove any scenes you don’t want to include). The topmost scene in this list will be the first to play when starting the game.
 
 ![](./img/build_settings_2.gif)
 
