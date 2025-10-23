@@ -95,3 +95,37 @@ For your response, prepare only a few sentences to answer each question below. *
 <br>
 
 ## Reading / Media 3
+
+<div class="duedate">
+<p>📌 <b>DUE:</b> Week 6 Tuesday, November 4</p>
+<p><a href="https://forms.gle/2RAUbD6WEdMhu1iH6">Submit Final Submission Here</a></p>
+</div>
+
+As inspiration, spend some time with any one of the following resources (Manovich, or a project listed in the spreadsheet.) **I will call on people in the class at random to share their thoughts.**
+
+### Option 1: Manovich Reading
+
+Read ["On Totalitarian Interactivity"](https://drive.google.com/file/d/1VbKI7YMOtKc9MKs-FQ4s-dBmYD8v4Zlj/view?usp=drive_link) by Lev Manovich, then answer the following questions:
+
+* According to Lev Manovich, what is the motivation for interactivity in "new" media? 
+* Consider your own political, social, cultural ideology—are you able to pinpoint ways in which they have influenced your attitude toward, or perspective of, interactive media? …Computers in general?
+
+*OR*
+
+### Option 2: Play a project
+
+Play any **ONE** project in this [spreadsheet](https://docs.google.com/spreadsheets/d/1SBo_X-aN6fOwxVZVowLKWvJ5_ByisbAx9lGoQ_yMBDU/edit?usp=sharing), then answer the following questions:
+
+#### *Question 1.*
+
+Roger Caillois introduces in his book "Man, Games, and Play" the fundamental categories of play--agon (competition games); alea (chance games); mimicry (simulation or role-play); and ilinx (vertigo or sense-altering experiences)
+
+![](./img/cailloiscategories.png)
+
+Can you fit the project you've played above into one or more of these categories? Or would you create your own category to describe this project--and if so, how would you describe this category?
+
+#### *Question 2.*
+
+Analyse your experience of embodiment (or disembodiment) in your selected project -- What role did you play in this reality, and how did that shape your interpretation of this project's intention? 
+
+Justify your claim with at least 2 points of formal analysis (e.g. controls for interaction, perspective, aesthetics, timing, etc.) 
