@@ -56,6 +56,13 @@ Some ideas and considerations for your project scope...
 
 <br>
 
+<figure>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/207050740?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Physical Capacity (playthrough), 2017"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<figcaption>--Viktor Timofeev, "Physical Capacity"</a></figcaption>
+</figure>
+
+<br>
+
 **CG object as digital toy**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N6dxrPLl9dQ?si=kEOXbZqnYl-RNCyO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
