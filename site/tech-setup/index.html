@@ -279,12 +279,60 @@ Because Visual Studio for Mac is no longer supported, you’ll need to download 
 <hr />
 <h2 id="setting-up-blender">Setting up Blender</h2>
 <p>On your own laptop or desktop, install the same version of Blender that's on the classroom computers. </p>
-<p>More instructions soon... (once we enter the world of CG!)</p>
-<!--
-- lazyviewport plugin (bc this is how i use blender)
-- setup 3-button mouse shortcuts in preferences
-- toggle extra objects? not sure if this is different in blender4
---></p>
+<blockquote>
+<p>Here is an archive of all released versions of Blender: <a href="https://download.blender.org/release/">download.blender.org/release</a></p>
+</blockquote>
+<p><br></p>
+<p>For a better experience in Blender, follow the instructions below to calibrate your Blender preferences accordingly: </p>
+<p><br></p>
+<h3 id="input-preferences">Input Preferences</h3>
+<p>Make the most out of your 3-button mouse by activating their shortcut options!</p>
+<ul>
+<li>Go to <strong>Edit &gt; Preferences &gt; Input</strong></li>
+<li>Toggle on <strong>Emulate 3 Button Mouse</strong></li>
+</ul>
+<p><br></p>
+<h3 id="keymap-preferences">Keymap Preferences</h3>
+<p>Switch object interaction modes and viewport shading modes using hotkeys.</p>
+<ul>
+<li>Go to <strong>Edit &gt; Preferences &gt; Keymap</strong></li>
+<li>Under 3D View, toggle on <strong>"Tab for Pie Menu"</strong> and <strong>"Extra Shading Pie Menu Items"</strong>.</li>
+</ul>
+<p><br></p>
+<h3 id="extra-mesh-objects">Extra Mesh Objects</h3>
+<p>Activate this add-on to view more mesh options. The Round Cube mesh is particularly useful when cube modelling.  </p>
+<ul>
+<li>Go to <strong>Edit &gt; Preferences &gt; Add-ons</strong></li>
+<li>Toggle on <strong>"Extra Mesh Objects"</strong> (<em>or "Add Mesh: Extra Objects" in version 3.x</em>)</li>
+</ul>
+<p><br></p>
+<h3 id="loop-tools">Loop Tools</h3>
+<p>If you have Blender 4.x:</p>
+<ul>
+<li>Go to <strong>Edit &gt; Preferences &gt; Get Extensions</strong></li>
+<li>Click <strong>"Allow Online Access"</strong> to connect to the network if prompted -- you can turn this off later in the System tab, under <strong>Network</strong>.</li>
+<li>Search for <strong>"LoopTools"</strong> &gt; click <strong>Install</strong>.</li>
+</ul>
+<p><br></p>
+<p>If you have Blender 3.x:</p>
+<ul>
+<li>Go to <strong>Edit &gt; Preferences &gt; Add-ons</strong></li>
+<li>Toggle on <strong>"Mesh: LoopTools"</strong>.</li>
+</ul>
+<p><br></p>
+<h3 id="lazy-viewport-plugin">Lazy Viewport plugin</h3>
+<p><em>(Optional, depends on preference!)</em></p>
+<p>By default, pressing Blender's transform hotkeys (scale, move, rotate) will automatically perform the tool's transform action. </p>
+<p>If you're not a fan of this feature, and want the hotkeys to simply switch to the tool <em>without</em> performing the transform action, I recommend downloading this <strong>Lazy Viewport</strong> add-on: <a href="https://github.com/cgfasttrack/lazyviewport">https://github.com/cgfasttrack/lazyviewport</a></p>
+<p><br></p>
+<ul>
+<li>On the github page, click the green button <strong>"&lt;&gt; Code" &gt; Download ZIP</strong>. <br><br><img src="../img/techsetup_lazyviewport.jpg" width = "80%"><br><br></li>
+<li><strong>Extract the .zip folder</strong>. There should be a <strong>python file (.py)</strong> inside the extracted folder "lazyviewport.py".<br><br><img src="../img/lazyviewportpy.jpg"><br><br></li>
+<li>In Blender, go to <strong>Edit &gt; Preferences &gt; Add-ons</strong>.</li>
+<li>Click the <strong>dropdown arrow</strong> at the top right of the menu window <strong>&gt; Install from Disk</strong><br><blockquote><p>If you're on Blender version 3.x, click the "Install" button at the top right corner.</p></blockquote><br><img src="../img/installAddons.jpg" width = "80%"><br><br></li>
+<li>Locate and select the <strong>"lazyviewport.py"</strong> file, then click <strong>"Install from Disk"</strong>.</li>
+<li>Make sure the "Lazy Viewport" module is toggled on in your Add-on settings.<br><br><img src="../img/lazyviewportaddon.jpg"><br><br></li>
+</ul></p>
     </article>
 </section>
 <!-- endblock -->
