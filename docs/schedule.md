@@ -88,5 +88,5 @@
 | W6  | **11/04**</br><div class="due"><p>📌 DUE: </p><ul><li>[Reading/Media Response 3](reading-media.md/#reading-media-3)</li></ul></div><p>Tutorial: Interacting with 3D Assets in Unity</p><blockquote><p>3D Navigation, Ragdoll Physics, Character Controllers</p></blockquote> | **11/06**</br><div class="due"><p>📌 DUE: </p><ul><li>[Project 2 Proposal](project-2.md/#deliverables)</li></ul></div>Studio Time</blockquote>|
 | W7  | **11/11**</br><p>No Class (Veterans Day holiday)</p> | **11/13**</br><p>Tutorial: Simple Custom Controller Workshop</p>|
 | W8  | **11/18**</br><p>Tutorial: Extra tips and tricks (TBD)</p> | **11/20**</br><p>Tutorial: Post Processing, Effects</p><p>Studio Time: One-on-one meetings</p>|
-| W9  | **11/25**</br><p>No Class (Thanksgiving holiday)</p> | **11/27**</br><p>Studio Time: One-on-one meetings</p>|
+| W9  | **11/25**</br><p>Studio Time: One-on-one meetings</p> | **11/27**</br><p>No Class (Thanksgiving holiday)</p>|
 | W10  | **12/02**</br><div class="due"><p>📌 DUE: </p><ul><li>[Project 2](project-2.md)</li></ul></div><p>Project 2 Crit Day 1</p> | **12/04**</br><p>Project 2 Crit Day 2</p> |
