@@ -343,7 +343,7 @@ Normal maps are used to **create the illusion of high-resolution details on low-
 You can download normal maps online for repeating textures, paint your own on Substance Painter, or bake normal maps from high-poly meshes onto lower-poly meshes in 3D software. 
 
 <figure>
-<img src="http://wiki.polycount.com/w/images/thumb/c/c9/Normalmap_stairs.jpg/1406px-Normalmap_stairs.jpg">
+<img src="../img/Normalmap_stairs.jpg">
 <figcaption>-- A normal mapped model, the mesh without the map, and the normal map alone. Image by <a href="https://ericchadwick.com/">Eric Chadwick</a>.</figcaption>
 </figure>
 
