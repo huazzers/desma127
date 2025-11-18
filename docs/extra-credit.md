@@ -1,5 +1,5 @@
 ---
-title: Survey
+title: Extra Credit
 ---
 
 <style>
@@ -54,10 +54,12 @@ window.onload = function(e){
 }
 </script>
 
-# Survey
+# Extra Credit
 
 <div class="duedate">
-<p>📌 <b>DUE:</b> Week 1 Tuesday, September 30</p>
+<p>📌 <b>DUE:</b> Week 10 Friday, December 5</p>
 </div>
 
-Please complete this survey form before the deadline: [https://forms.gle/eKqmPPXZrU3c5D4v6](https://forms.gle/eKqmPPXZrU3c5D4v6)
+*Seek out an interactive game, performance, installation, or gallery work. Go see it in person and tell me about your experience.*
+
+Please submit your response before the deadline: [https://forms.gle/vAtayr9y1HhXx1YCA](https://forms.gle/vAtayr9y1HhXx1YCA)
